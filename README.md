@@ -1,2 +1,2 @@
 # Practice-Website
-Learning HTML practice profile website
+Learning Web Development practice profile website
